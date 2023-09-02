@@ -51,13 +51,13 @@ Além de toda essa estrutura, foi implementado um controlador exclusivo para a e
 - Acessar o arquivo *application.properties* no projeto
 - Descomentar o bloco de código entitulado **#Postgre Local** e editar adicionando o nome do banco criado, usuário e senha nos locais indicados
 - Executar o projeto
-- Acessa <a href="localhost:8080/home">localhost:8080/home</a>
+- Acessa http://localhost:8080/home
 
 ### Passo à passo Banco em Memória
 - Baixar uma cópia do projeto deste repositório (git clone https://github.com/danison00/Cadastro-de-Funcionarios.git)
 - Acessar o arquivo *application.properties* no projeto
 - Descomentar o bloco de código entitulado **#Banco em memória** 
 - Executar o projeto
-- Acessa <a href="localhost:8080/home">localhost:8080/home</a>
+- Acessa http://localhost:8080/home
 
 
