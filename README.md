@@ -68,6 +68,6 @@ Além de toda essa estrutura, foi implementado um controlador exclusivo para a e
 ~~~	
 
 - Executar o projeto
-- Acessa http://localhost:8080/home
+- Acessar http://localhost:8080/home
 
 
