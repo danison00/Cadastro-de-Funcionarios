@@ -1,4 +1,4 @@
-# Cadastro de Funcionários
+# Cadastro de Funcionários 👥📋 
 O objetivo deste projeto foi desenvolver um sistema web em Java para o cadastro de funcionários de uma empresa, no qual é possível registrar departamentos, cargos e, por fim, os funcionários.
 # Índice
 - Funcionalidades
