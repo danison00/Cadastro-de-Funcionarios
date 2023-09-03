@@ -58,12 +58,15 @@ Além de toda essa estrutura, foi implementado um controlador exclusivo para a e
 - Acessar o arquivo *application.properties* no projeto
 - Descomentar o bloco de código entitulado **#Banco em memória** 
 - Acessar o arquivo *pom.xml*
-- Descomentas a dependência do banco em memória H2
-```	<dependency>
-	    <groupId>com.h2database</groupId>
-			<artifactId>h2</artifactId>
-			<scope>runtime</scope>
-	</dependency>``` 
+- Descomentar a dependência do banco em memória H2
+~~~
+<dependency>
+	<groupId>com.h2database</groupId>
+	<artifactId>h2</artifactId>
+	<scope>runtime</scope>
+</dependency>
+~~~	
+
 - Executar o projeto
 - Acessa http://localhost:8080/home
 
