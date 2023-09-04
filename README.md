@@ -55,7 +55,11 @@ Além de toda essa estrutura, foi implementado um controlador exclusivo para a e
 - JDK 17+  instalado
 - PostgreSql (Preferencialmente)
 ### Passo à passo para Banco PostgresSQL
-- Baixar uma cópia do projeto deste repositório (git clone https://github.com/danison00/Cadastro-de-Funcionarios.git)
+- Baixar uma cópia do projeto deste repositório
+- Caso tenha o git instalado, poderá executar pelo terminal o comando
+  ~~~
+  git clone https://github.com/danison00/Cadastro-de-Funcionarios.git
+  ~~~
 - Criar uma instância de banco PostgreSQL 
 - Acessar o arquivo *application.properties* no projeto
 - Descomentar o bloco de código entitulado **#Postgre Local** e editar adicionando o nome do banco criado, usuário e senha nos locais indicados
