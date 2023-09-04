@@ -1,6 +1,6 @@
 # Cadastro de Funcionários 👥📋 
 O objetivo deste projeto foi desenvolver um sistema web em Java para o cadastro de funcionários de uma empresa, no qual é possível registrar departamentos, cargos e, por fim, os funcionários.
-Neste projeto foram aplicadas boas práticas de desenvolvimento de Software como escrita limpa e legível, bem como os princípios SOLID.
+Neste projeto foram aplicadas boas práticas de desenvolvimento de Software como escrita de código limpa e legível, bem como os princípios SOLID.
 
 O backend do projeto foi feito usando diversos módulos do framework Spring. O frontend foi feito usando HTML, CSS e Javascript. O projeto também conta com validação no frontend e no backend, além de ser projetado pensando na experiência de usuário.
 
