@@ -1,6 +1,10 @@
 # Cadastro de Funcionários 👥📋 
 O objetivo deste projeto foi desenvolver um sistema web em Java para o cadastro de funcionários de uma empresa, no qual é possível registrar departamentos, cargos e, por fim, os funcionários.
-Neste projeto foram aplicadas boas práticas de desenvolvimento de Software como escrita limpa e legível, bem como os princípios SOLID.  
+Neste projeto foram aplicadas boas práticas de desenvolvimento de Software como escrita limpa e legível, bem como os princípios SOLID.
+
+O backend do projeto foi feito usando diversos módulos do framework Spring. O frontend foi feito usando HTML, CSS e Javascript. O projeto também conta com validação no frontend e no backend, além de ser projetado pensando na experiência de usuário.
+
+
 # Índice
 - Funcionalidades
 - Regra de Negócios
@@ -11,6 +15,9 @@ Neste projeto foram aplicadas boas práticas de desenvolvimento de Software como
 - [x] Cadastrar, excluir e editar Departamentos
 - [x] Cadastrar, excluir e editar Cargos
 - [x] Cadastrar, excluir e editar Funcionários
+- [x] Buscar por nome
+- [x] Buscar por Departamento
+- [x] Buscar por Salário  
 
 ## Regras de Negócio 📜🧠
 Para as regras de negócio foram usados os seguintes critérios requistos:
@@ -32,14 +39,15 @@ Além de toda essa estrutura, foi implementado um controlador exclusivo para a e
 ## Tecnologias, bibliotecas e ferramentas utilizadas
 ### Backend
 - Java ☕️
-- Spring boot, Spring Validation e Spring Data JPA 🍃
+- Spring boot, Spring Validation e Spring Data JPA, Spring Validation I/O 🍃
 - Hibernate 🔍📋
 - PostgreSQL 🐘
 - API's RESTful 🌐
 - Padrão DTO  📝
   
 ### Frontend
-- HTML, CSS e Bootstrap 🌐
+- HTML, CSS 🎨
+- Bootstrap 🅱️
 - JavaScript e requisições AJAX 🚀
 
 ## Como rodar o projeto
