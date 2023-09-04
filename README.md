@@ -52,7 +52,7 @@ Além de toda essa estrutura, foi implementado um controlador exclusivo para a e
 
 ## Como rodar o projeto
 ### Requisitos
-- JDK 17+  intalado
+- JDK 17+  instalado
 - PostgreSql (Preferencialmente)
 ### Passo à passo para Banco PostgresSQL
 - Baixar uma cópia do projeto deste repositório (git clone https://github.com/danison00/Cadastro-de-Funcionarios.git)
