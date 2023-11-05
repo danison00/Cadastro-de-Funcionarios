@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
 import com.dan.br.cadastrodefuncionario.model.Cargo;
 import com.dan.br.cadastrodefuncionario.service.CargoService;
 import com.dan.br.cadastrodefuncionario.web.Converters.Conversor;
