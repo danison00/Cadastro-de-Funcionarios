@@ -11,7 +11,6 @@ import com.dan.br.cadastrodefuncionario.service.DepartamentoService;
 import javax.validation.Valid;
 import org.springframework.web.bind.annotation.*;
 
-
 @RestController
 @RequestMapping("/api/departamentos")
 public class DepartamentoController {
